@@ -68,6 +68,7 @@ app.use('/api/ftl/rfqs',       rfqRoutes);
 app.use('/api/ftl/tracking',   trackingRoutes);
 app.use('/api/ftl/exceptions', exceptionsRoutes);
 app.use('/api/ftl/pod',        podRoutes);
+app.use('/api/ptl/epod',      podRoutes);
 app.use('/api/ftl/billing',    billingRoutes);
 app.use('/api/ftl/settlement', settlementRoutes);
 app.use('/api/ftl/analytics',  analyticsRoutes);
