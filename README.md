@@ -90,7 +90,7 @@ Delivered → ePOD Captured (photo + signature)
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/your-org/haulsync-tos-ptl.git
+git clone https://github.com/shafeehhecker/haulsync-tos-ptl.git
 cd haulsync-tos-ptl
 cp .env.example .env
 docker compose up -d
